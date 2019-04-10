@@ -1,6 +1,4 @@
-<h1>hello .. <br>
-how are you? <br>
-i am fine.
-12354
-qwert
- <br> </h1>
+# SAMPLE PROJECT
+======
+
+My first web page. Go here to check it out  - https://rajukp25.github.io/sample_website/
